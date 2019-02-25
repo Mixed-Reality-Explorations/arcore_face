@@ -11,3 +11,7 @@ https://github.com/google-ar/arcore-unity-sdk
 
 Unity wireframe renderer 
 https://github.com/miguel12345/UnityWireframeRenderer
+
+## Setup
+- In Unity, be sure to switch the platform to Android.
+- The app is called "AugmentedFaces" when it's installed, and it has a little blue wireframe box as the icon.
